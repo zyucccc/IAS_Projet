@@ -1,0 +1,5 @@
+Ici, nous avons deux dossiers :
+
+Le dossier "projet_stellar_classification" contient notre projet.
+
+Le dossier "regression_logistique" est là pour mieux comprendre et apprendre le modèle de régression logistique. Nous avons trouvé un petit ensemble de données pour étudier la descente de gradient de la régression logistique.
